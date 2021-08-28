@@ -6,12 +6,9 @@ header-img: "img/green.jpg"
 ---
 
 ## tag列表
-<style>
-.font_bk{border:1px solid pink;}
-</style>
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-  <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}"><u style="color:pink"><span class="font_bk">{{ tag[0] }}</span></u></a>
+  <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}"><u style="color:pink">{{ tag[0] }}</u></a>
 {% endfor %}
 </div>
 
