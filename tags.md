@@ -2,14 +2,14 @@
 layout: page
 title: "Tags"
 description: "tags搜索"  
-header-img: "img/semantic.jpg"  
+header-img: "img/green.jpg"  
 ---
 
 ## tag列表
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+  <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}"><u><fond color='pink'>{{ tag[0] }}</fond></u></a>
 {% endfor %}
 </div>
 
@@ -21,7 +21,7 @@ header-img: "img/semantic.jpg"
 {% for post in tag[1] %}
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <a href="{{ post.url }}" title="{{ post.title }}"><u><fond color='pink'>{{ post.title }}</fond></u></a>
   </li>
 {% endfor %}
 {% endfor %}
