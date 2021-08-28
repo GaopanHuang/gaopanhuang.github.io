@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "milestone"
-description: "代表作"
+title: "Milestone"
+description: "脚印"
 header-img: "img/green.jpg"
 ---
 
