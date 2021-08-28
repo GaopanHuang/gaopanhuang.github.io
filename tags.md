@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Tags"
-description: "tags搜索"  
+description: "Tags搜索"  
 header-img: "img/green.jpg"  
 ---
 
-## tag列表
+## Tags
 <div id='tag_cloud'>
 {% for tag in site.tags %}
   <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}"><u style="color:pink">{{ tag[0] }}</u></a>
@@ -16,7 +16,7 @@ header-img: "img/green.jpg"
 
 <ul class="listing">
 {% for tag in site.tags %}
-  <h2 class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</h2>
+  <h4 class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</h4>
 {% for post in tag[1] %}
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
