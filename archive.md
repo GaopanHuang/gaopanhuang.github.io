@@ -15,7 +15,7 @@ header-img: "img/green.jpg"
   {% endif %}
   <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    <a href="{{ post.url }}" title="{{ post.title }}"><u style="color:green">{{ post.title }}</u></a>
   </li>
 {% endfor %}
 </ul>
