@@ -9,7 +9,7 @@ header-img: "img/green.jpg"
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-  <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}"><u><fond color='pink'>{{ tag[0] }}</fond></u></a>
+  <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}"><u style="color:pink"><p style="color:pink">{{ tag[0] }}</p></u></a>
 {% endfor %}
 </div>
 
@@ -17,11 +17,11 @@ header-img: "img/green.jpg"
 
 <ul class="listing">
 {% for tag in site.tags %}
-  <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
+  <h2 class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</h2>
 {% for post in tag[1] %}
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-  <a href="{{ post.url }}" title="{{ post.title }}"><u><fond color='pink'>{{ post.title }}</fond></u></a>
+  <a href="{{ post.url }}" title="{{ post.title }}"><u style="color:pink"><p style="color:pink">{{ post.title }}</p></u></a>
   </li>
 {% endfor %}
 {% endfor %}
