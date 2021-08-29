@@ -16,7 +16,7 @@ header-img: "img/green.jpg"
 ---
 - **中国科学院自动化研究所**(2007.9-2012.8) &nbsp;&nbsp; 博士研究生<sup>*</sup> &nbsp;&nbsp; 专业：计算机应用技术 &nbsp;&nbsp; 研究方向：图像处理，目标检测/识别，多Agent系统(MAS)
 
-- **武汉理工大学**(2003.9-2007.7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本科学士 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 专业：电气工程及其自动化 &nbsp;&nbsp; 
+- **武汉理工大学**(2003.9-2007.7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本科学士 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 专业：电气工程及其自动化 &nbsp;&nbsp; 
 
 ## 个人能力
 ---
