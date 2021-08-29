@@ -6,19 +6,20 @@ header-img: "img/green.jpg"
 ---
 
 ## 黄高攀
+---
 博士研究生，2012年8月中科院自动化所毕业，师从杨一平教授。毕业后先后任职于国网江苏电力、阿里云，主要从事人工智能应用技术相关工作。
 
 目前坐标江苏南京，爱好足球和吉他，联系方式：huanggpan@163.com
 
 
 ## 教育经历
-
+---
 - **中国科学院自动化研究所**(2007.9-2012.8) &nbsp;&nbsp; 博士研究生<sup>*</sup> &nbsp;&nbsp; 专业：计算机应用技术 &nbsp;&nbsp; 研究方向：图像处理，目标检测/识别，多Agent系统(MAS)
 
 - **武汉理工大学**(2003.9-2007.7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本科学士 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 专业：电气工程及其自动化 &nbsp;&nbsp; 
 
 ## 个人能力
-
+---
 - **AI经历** ：工业、交通、电力、税务等不同toB、toG行业领域
 - **专业能力** ：时序预测、工业软测量、优化控制、图像视觉、NLP、MLOps等
 - **编程能力** : sklearn、xgb、torch、tf等；python，c/c++，shell
@@ -26,7 +27,7 @@ header-img: "img/green.jpg"
 
 
 ## 工作经历
-
+---
 - **阿里云计算有限公司（2018.9 - 至今）**
 
     - **职位**：高级专家
@@ -38,7 +39,7 @@ header-img: "img/green.jpg"
     - **主要工作内容**：AI技术在电力信息领域的应用，团队管理
 
 ## 代表性项目 
-
+---
 - ### 国税智能风控
 
     2021.02-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;算法负责人
@@ -88,6 +89,7 @@ header-img: "img/green.jpg"
 
 
 ## 论文专利
+---
 - Le Yao, Xiaoyu Jiang, <b>Gaopan Huang</b>, et al.. Virtual Sensing f-CaO Content of Cement Clinker Based on Incremental Deep Dynamic Features Extracting and Transferring Model. IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-10, 2021.
 - Xiaoyu Jiang, Le Yao, <b>Huang Gaopan</b>, Jinchuan Qian, et al.. A CNN-based semi-supervised soft sensor for f-CaO content prediction in cement industry. DDCLS 2020
 - <b>Gaopan Huang</b>, Yanqing Wang, et al. Ship Detection Using Texture Statistics from Optical Satellite Images. DICTA 2011.
