@@ -1,15 +1,14 @@
 ---
 layout: page
 title: "About"
-description: "resume" 
+description: "关于BLOG" 
 header-img: "img/green.jpg"
 ---
-黄高攀
+
+本博客用于记录个人在AI技术服务方面的一些所见所闻所思，欢迎路过的朋友一起交流。
 
 
-<br/>
-
-<font color=gray size=2> 联系方式: huanggpan@163.com </font>
+<font color=rgb(255,0,255)> 联系方式: huanggpan@163.com </font>
 
 ---
 <font color=gray size=2> * 本博客参考模版：https://github.com/cnfeat/cnfeat.github.io，对博主陈素封表示感谢！</font>
