@@ -83,7 +83,7 @@ header-img: "img/green.jpg"
   2016.03-2017.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国网江苏电力&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术总负责
 
   - 基于ELK搭建省级电力公司统一日志管理系统，实现对服务器等硬件日志和数据库等软件日志的统一采集和管理，达到十亿级日志秒级响应。
-  - 基于Oracle AWR报告和alert日志，通过时序模型对数据库性能、负载、告警日志进行预测，提升数据库运检过程的主动性。
+  - 基于Oracle AWR报告和alert日志，通过时序模型对数据库性能、负载、告警等进行预测，提升数据库运检过程的主动性。
 
 
 ## 论文专利
