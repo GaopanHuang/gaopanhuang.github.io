@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resume"
-description: "博主简介" 
+description: "博主简历" 
 header-img: "img/green.jpg"
 ---
 
@@ -20,9 +20,9 @@ header-img: "img/green.jpg"
 
 ## 个人能力
 ---
-- **AI经历** ：深度理解工业、交通、电力、税务等不同大B、大G行业领域的AI应用场景
-- **专业能力** ：时序预测、工业软测量、优化控制、图像视觉、NLP、MLOps等
-- **编程能力** : sklearn、xgb、torch、tf等；python，c/c++，shell
+- **AI应用场景** ：深入理解工业、交通、电力、税务等不同大B、大G行业领域的AI应用场景
+- **AI技术** ：时序预测、工业软测量、优化控制、图像视觉、NLP、MLOps等
+- **算法实现** : sklearn、xgb、torch、tf等；python，c/c++，shell；AI云原生相关组件
 - **论文专利**：论文6篇、发明专利5项
 
 
@@ -40,7 +40,7 @@ header-img: "img/green.jpg"
 
 ## 代表性项目 
 ---
-- ### 国税智能风控
+- ### 税务智能风控
 
     2021.02-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;算法负责人
 
@@ -72,20 +72,18 @@ header-img: "img/green.jpg"
   - **我的贡献** : 
   - **业务价值** :
 
-- ### 数据库系统运行态势感知
-
-  2017.05-2017.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国网江苏电力&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术总负责
-
-  - **项目描述** : 
-  - **我的贡献** : 
-  - **业务价值** :
-
 - ### 2018全球（南京）人工智能应用大赛
 
   2018.05-2018.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国网江苏电力&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;团队负责人
 
-  架空输电线路无人机缺陷检测单项比赛1/86，最终路演8/1018。
+  - 架空输电线路无人机缺陷检测单项比赛1/86，最终路演8/1018。
 
+- ### 数据库系统运行态势感知
+
+  2016.03-2017.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国网江苏电力&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术总负责
+
+  - 基于ELK搭建省级电力公司统一日志管理系统，实现对服务器等硬件日志和数据库等软件日志的统一采集和管理，达到十亿级日志秒级响应。
+  - 基于Oracle AWR报告和alert日志，通过时序模型对数据库性能、负载、告警日志进行预测，提升数据库运检过程的主动性。
 
 
 ## 论文专利
