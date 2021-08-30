@@ -104,4 +104,4 @@ header-img: "img/green.jpg"
 
 
 ---
-<font color=gray size=2>* 硕博连读 </font
+<font color=gray size=2>* 硕博连读 </font>
