@@ -88,10 +88,10 @@ header-img: "img/green.jpg"
 
 ## 论文专利
 ---
-- Le Yao, Xiaoyu Jiang, <b>Gaopan Huang</b>, et al.. Virtual Sensing f-CaO Content of Cement Clinker Based on Incremental Deep Dynamic Features Extracting and Transferring Model. IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-10, 2021.
-- Xiaoyu Jiang, Le Yao, <b>Huang Gaopan</b>, Jinchuan Qian, et al.. A CNN-based semi-supervised soft sensor for f-CaO content prediction in cement industry. DDCLS 2020
+- Le Yao, Xiaoyu Jiang, <b>Gaopan Huang</b>, et al.. Virtual Sensing f-CaO Content of Cement Clinker Based on Incremental Deep Dynamic Features Extracting and Transferring Model. IEEE Transactions on Instrumentation and Measurement, vol. 70, 2021.
+- Xiaoyu Jiang, Le Yao, <b>Gaopan Huang</b>, Jinchuan Qian, et al.. A CNN-based semi-supervised soft sensor for f-CaO content prediction in cement industry. DDCLS 2020
 - <b>Gaopan Huang</b>, Yanqing Wang, et al. Ship Detection Using Texture Statistics from Optical Satellite Images. DICTA 2011.
-- <b>Huang Gaopan</b>, Tian Yuan, et al. Self-recalibration of PTZ Cameras. MVHI 2010.
+- <b>Gaopan Huang</b>, Yuan Tian, et al. Self-recalibration of PTZ Cameras. MVHI 2010.
 - <b>Gaopan Huang</b>, Yuan Tian, Guanqing Chang, et.al. A knowledge representation architecture for remote sensing image understanding systems. ITAIC 2011.
 - <b>黄高攀</b>，张柯，乔红麟. 产线实时优化控制方法及装置. 202110857238.6
 - <b>黄高攀</b>，陈立新，陈朝晖. 一种控制变量值的确定方法、装置及设备. 201910869889.X
@@ -101,4 +101,4 @@ header-img: "img/green.jpg"
 
 
 ---
-<font color=gray size=2>* 硕博连读 </font>
+<font color=gray size=2>* 硕博连读 </font
