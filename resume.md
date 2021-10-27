@@ -40,17 +40,17 @@ header-img: "img/green.jpg"
 
 ## 代表性项目 
 ---
-- ### 税务智能风控
+- ### MLOps-AI落地全流程组件
 
-    2021.02-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;算法负责人
+    2021.05-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术负责人
 
   - **项目描述** : 
   - **我的贡献** : 
   - **业务价值** :
 
-- ### MLOps-AI持续服务
+- ### 税务智能风控
 
-    2021.05-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术负责人
+    2021.02-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;算法负责人
 
   - **项目描述** : 
   - **我的贡献** : 
@@ -74,7 +74,7 @@ header-img: "img/green.jpg"
 
 - ### 2018全球（南京）人工智能应用大赛
 
-  2018.05-2018.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国网江苏电力&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TL
+  2018.05-2018.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国网江苏电力&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;负责人
 
   - 架空输电线路无人机缺陷检测单项比赛1/86，最终路演8/1018。
 
