@@ -1,0 +1,23 @@
+- name: Medium
+  url: https://medium.com/
+  src: AIresource
+
+- name: HF-Mirror
+  url: https://hf-mirror.com/
+  src: AIresource
+
+- name: Hugging Face
+  url: https://huggingface.co/
+  src: AIresource
+
+- name: ModelScope
+  url: https://modelscope.cn/home
+  src: AIresource
+
+- name: Web3天空之城
+  url: https://space.bilibili.com/351754674
+  src: AIvideo
+
+- name: 胡Sir音乐
+  url: https://space.bilibili.com/304503285
+  src: music
